@@ -34,7 +34,7 @@ int multiply(int a, int b)
 String lowTOuppercase(String u)
 {
   u = u.toUpperCase();
-  //println(u); nb: println/print != return, only for test. (opg 2.c)
+  
   return u;
 }
 

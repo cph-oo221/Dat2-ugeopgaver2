@@ -1,7 +1,7 @@
 // 1.a
 void setup()
 {
-  makeAsentence("Write anything in her and it will be printed! :)");
+  makeAsentence("Write anything in here and it will be printed! :)");
   // 1.b emptyLine(100, 100, 200, 200);
   // 1.b
   emptyLine();
@@ -30,6 +30,6 @@ void makeAsentence(String s)
 // 1.d
 void personInfo(String name, int age)
 {
-  print("My name is " + name + ",");
-  print(" I am " + age + " years old");
+  print("My name is " +name+", I am "+age+" years old");
+   
 }

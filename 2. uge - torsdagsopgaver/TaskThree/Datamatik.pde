@@ -8,5 +8,5 @@ void setup()
   
   println("Name: " + Jesper.name);
   println("Name: " + Oskar.name, "Team: " + Oskar.datamatikerTeam);
-  println("Name: " + Peter.name, "Team: " + Peter.datamatikerTeam);
+  println("Name: " + Peter.name, "Team: " + Peter.datamatikerTeam); 
 }
